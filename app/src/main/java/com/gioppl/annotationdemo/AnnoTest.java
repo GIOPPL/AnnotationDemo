@@ -1,7 +1,7 @@
 package com.gioppl.annotationdemo;
 
-@TestAnnotation(id = 2,msg = "anno")
 public class AnnoTest {
-        
-
+//    @TestAnnotation(id = 3,msg ="hello ")
+    public String s="1";
+//    Log.i("hello","hello");
 }
